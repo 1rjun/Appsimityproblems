@@ -20,7 +20,7 @@ function sieveofsundrem(limit){
     // we will half the limit of given prime number limit according to the algorithm
     var nNew = (limit-2)/2;
 
-    //now we create an empty error which will store the boolean values 
+    //now we create an empty array which will store the boolean values 
     var marked = [];
 
     // new_primes  is the array which used for storing the prime numbers 
