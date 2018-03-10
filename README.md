@@ -5,3 +5,7 @@
 
 ## problem 2
 2.  Second problem also solved 
+
+## problem 3
+
+2. Third problem also solved
